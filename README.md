@@ -9,7 +9,7 @@ Demo shows how to use UIScrollView with AutoLayout
 
 ## How to use
 
-![scheme-select](https://raw.githubusercontent.com/honghaoz/UIScrollView-and-AutoLayout/master/scheme-select.png)
+![scheme-select](https://raw.githubusercontent.com/honghaoz/UIScrollView-and-AutoLayout/master/scheme_select.png)
 
 Select scheme and hit run.
 
