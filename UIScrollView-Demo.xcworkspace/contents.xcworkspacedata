@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:UIScrollView-Frame/UIScrollView-Frame.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIScrollView-AutoLayout-Mixed/UIScrollView-AutoLayout-Mixed.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIScrollView-AutoLayout-Pure-Programmatically/UIScrollView-AutoLayout-Pure-Programmatically.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIScrollView-AutoLayout-Pure-InterfaceBuilder/UIScrollView-AutoLayout-Pure-InterfaceBuilder.xcodeproj">
+   </FileRef>
+</Workspace>
